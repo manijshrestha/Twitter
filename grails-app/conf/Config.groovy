@@ -92,4 +92,4 @@ log4j = {
 //CloudFoundry Stuff
 grails.plugin.cloudfoundry.username = 'manijshrestha@gmail.com'
 grails.plugin.cloudfoundry.password = 'SECRET'
-grails.plugin.cloudfoundry.appname = 'cloudspokessample'
+grails.plugin.cloudfoundry.appname = 'cloudspokes'
